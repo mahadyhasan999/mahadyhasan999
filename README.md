@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="20706081" data-share-method="host" data-aspect-ratio="1.25758" data-width="100%"><a href="https://tenor.com/view/android-google-evolutions-de-logos-gif-20706081">Android Google Sticker</a>from <a href="https://tenor.com/search/android-stickers">Android Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <!--
 **mahadyhasan999/mahadyhasan999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
